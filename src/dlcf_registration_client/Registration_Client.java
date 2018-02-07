@@ -27,7 +27,7 @@ import javax.swing.JOptionPane;
 public class Registration_Client extends javax.swing.JFrame
 {
     protected String DEFAULT_HOST = "127.0.0.1";
-    protected int DEFAULT_PORT = 8901;
+    protected int DEFAULT_PORT = 8903;
     String host;
     int port;
     ConnectServer connection;
